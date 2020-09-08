@@ -1,5 +1,5 @@
-### CraiglistSearchAlert
-## This program sends email notifications to a user when search results appear for indicated keywords.
+## CraiglistSearchAlert
+# This program sends email notifications to a user when search results appear for indicated keywords.
 
 # To Run the Program
 Install the necessary python packages:
