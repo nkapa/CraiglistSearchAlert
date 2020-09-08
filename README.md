@@ -1,4 +1,4 @@
-# CraiglistSearchAlert
+# Craiglist Search Alert
 This program sends email notifications to a user when search results appear for indicated keywords.
 
 # To Run the Program (In Progress)
