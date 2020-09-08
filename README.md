@@ -1,7 +1,7 @@
 # CraiglistSearchAlert
 This program sends email notifications to a user when search results appear for indicated keywords.
 
-# To Run the Program
+# To Run the Program (In Progress)
 Install the necessary python packages:
   `pip install beautifulsoup4`
   `pip install requests`
