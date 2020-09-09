@@ -1,19 +1,17 @@
 # Find the Best Local Restaurants
-This program sends email notifications to a user when search results appear for indicated keywords.
+This program finds the best local restaurants within a specified search radius of a specified city or address.
 
 # To Run the Program (In Progress)
 Install the necessary python packages:
-  `pip install beautifulsoup4`
-  `pip install requests`
-  `pip install smtplib` (not needed for mac users)
+  `pip install geopy`
 
-Create a virtual environment:
-  `python3 -m venv env`
+If you do not have one, create a virtual environment:
+  `python -m venv env`
 
 Start the environment:
   `source env/bin/activate`
   TIP: When finished developing, run `deactivate` to stop the virtual environment.
 
 Run program:
-  `python3 search.py keyword1 keyword2 keyword3`
+  `python search.py`
   
