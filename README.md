@@ -1,7 +1,7 @@
 # Find the Best Local Restaurants
 This program finds the best local restaurants within a specified search radius of a specified city or address.
 
-# To Run the Program (In Progress)
+# To Run the Program
 Install the necessary python packages:
   `pip install geopy`
 
