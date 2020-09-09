@@ -1,16 +1,15 @@
-import bs4 
-import requests
-import smtplib
-import sys
+# import statements
 
-if(len(sys.argv) <= 1):
-	raise Exception("No search provided")
+# ask for city (INPUT, error check)
 
-# generate url
-baseUrl = 'https://sandiego.craigslist.org/search/cta?query='
-args = sys.argv[1:]
-for word in args:
-	baseUrl += word
-	if(args.index(word) < len(args) - 1):
-		baseUrl += '+'
-print(baseUrl)
+# find latitutde and longitude
+
+# ask for cusisine type (INPUT, error check)
+
+# find distance, address, name --> from yelp, forsquare, google
+
+# remove duplicates
+
+# ask the distance they would like to travel (INPUT, error check)
+
+# find locations, print options
