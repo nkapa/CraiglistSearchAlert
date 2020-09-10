@@ -4,12 +4,6 @@ This program finds the best local restaurants within a specified search radius o
 # To Run the Program
 Install the necessary python packages:
   `pip install geopy`
-  
-  `pip install foursquare`
-  
-  `pip install yelp`
-  
-  `pip install google-search`
 
 If you do not have one, create a virtual environment:
 
