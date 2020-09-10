@@ -1,5 +1,5 @@
 # Find the Best Local Restaurants
-This program finds the best local restaurants within a specified search radius of a specified city or address.
+This program uses the Zomato API to find the best local restaurants in the city of your choosing. However, the Zomato API may not have data on the city you specify.
 
 # To Run the Program
 Install the necessary python packages:
