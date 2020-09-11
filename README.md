@@ -13,8 +13,6 @@ If you do not have one, create a virtual environment:
 Start the environment:
 
   `source env/bin/activate`
-  
-  TIP: When finished developing, run `deactivate` to stop the virtual environment.
 
 Run program:
 
