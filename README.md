@@ -3,7 +3,7 @@ This program uses the Zomato API to find the best local restaurants in the city 
 
 Caveat: The Zomato API may not have data on the city you specify.
 
-# To Run the Program
+# Run the Program
 Install the necessary python packages:
 
   `pip install geopy`
